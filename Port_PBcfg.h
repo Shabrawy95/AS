@@ -12,7 +12,7 @@
 #ifndef PORT_PBCFG_H_
 #define PORT_PBCFG_H_
 
-const Port_ConfigType Port_Configuration;
+extern const Port_ConfigType Port_Configuration;
 
 
 #endif /* PORT_PBCFG_H_ */
